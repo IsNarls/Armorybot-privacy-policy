@@ -5,13 +5,13 @@ Summary
 ArmoryBot does not collect, store, or sell your personal data.
 
 What the bot does
-- ArmoryBot accepts an image you provide and uploads it to Discord so it can be shared in your server.
+- ArmoryBot accepts a prompt you provide and uploads a picture to Discord so it can be shared in your server.
 - The image is processed only to complete the upload.
 
 Data we do NOT collect or store
 - No personal information
 - No message content
-- No images or files
+- No images or files(permanently, they are stored temp until overwritten)
 - No IP addresses
 - No analytics or tracking data
 
@@ -19,7 +19,7 @@ Data sharing
 ArmoryBot does not share your data with third parties because it does not store or retain any data.
 
 Data retention
-We do not retain any data. Any images are used only to complete the upload to Discord and are not stored by us.
+We do not retain any data. Any images are used only to complete the upload to Discord and are not stored permanently by us.
 
 Contact
 If you have questions about this policy, contact the bot owner or repository maintainer.

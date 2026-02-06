@@ -1,0 +1,25 @@
+Privacy Policy for ArmoryBot
+Effective Date: February 6, 2026
+
+Summary
+ArmoryBot does not collect, store, or sell your personal data.
+
+What the bot does
+- ArmoryBot accepts an image you provide and uploads it to Discord so it can be shared in your server.
+- The image is processed only to complete the upload.
+
+Data we do NOT collect or store
+- No personal information
+- No message content
+- No images or files
+- No IP addresses
+- No analytics or tracking data
+
+Data sharing
+ArmoryBot does not share your data with third parties because it does not store or retain any data.
+
+Data retention
+We do not retain any data. Any images are used only to complete the upload to Discord and are not stored by us.
+
+Contact
+If you have questions about this policy, contact the bot owner or repository maintainer.
